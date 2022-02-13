@@ -1,2 +1,2 @@
-# CRUD-java-spring-boot-validacion-thymeleaf-de-inputs
+# CRUD-java-spring-boot-+-thymeleaf
 java spring boot (crud)+validacion(thymeleaf ) 
